@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/test/NFTContract.t.sol",
+    "id": 7159,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "3062:0:28",
+    "nodes": [],
+    "license": "Unlicense"
+  },
+  "id": 28
+}
